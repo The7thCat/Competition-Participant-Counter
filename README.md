@@ -112,9 +112,9 @@ mvn exec:java
 
 # Project structure
 
-src/
-└── main/
-    └── java/
+src/  
+└── main/  
+    └── java/  
         └── AppStarter.java
 
 ---
