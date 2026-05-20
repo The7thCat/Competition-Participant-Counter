@@ -87,7 +87,7 @@ Each row is counted into its corresponding category.
 
 # Example output
 
-=== RESULTS ===
+=== RESULTS ===  
 Põhidistants MN16+: 180  
 Lühem võistlusdistants NM12-14: 77  
 1. mudilaste jooks-kõnd: 66  
