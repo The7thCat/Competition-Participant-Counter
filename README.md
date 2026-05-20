@@ -111,12 +111,12 @@ mvn exec:java
 ---
 
 # Project structure
-
+```
 src/  
 └── main/  
     └── java/  
         └── AppStarter.java
-
+```
 ---
 
 # Notes
